@@ -3,8 +3,8 @@ A sort visualization app using C++ and SFML.
 
 Build commands:  
 
-`g++ -c main.cpp  
-g++ main.o -o sort-app -lsfml-system -lsfml-window -lsfml-graphics`
+`g++ -c main.cpp`  
+`g++ main.o -o sort-app -lsfml-system -lsfml-window -lsfml-graphics`  
 
 ______________________________________________________________________
 UPDATES:
